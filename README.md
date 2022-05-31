@@ -7,7 +7,7 @@
 
 ## 2022 May
   * Start from May 13
-  * [Reading record](https://yihsinlu.github.io/DLW.io/2022may.html)
+  * [Reading record](https://yihsinlu.github.io/dlw.io/2022may.html)
 
 ## 2022 June
-  * [Reading record](https://yihsinlu.github.io/DLW.io/2022june.html)
+  * [Reading record](https://yihsinlu.github.io/dlw.io/2022june.html)
