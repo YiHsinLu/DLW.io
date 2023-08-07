@@ -13,4 +13,4 @@
   * [Reading record](https://yihsinlu.github.io/dlw.io/2022june.html)
 
 ## 2023 August
-  * [Reading record](https://yihsinlu.github.io/dlw.io/2022aug.html)
+  * [Reading record](https://yihsinlu.github.io/dlw.io/2023aug.html)
